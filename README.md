@@ -5,5 +5,5 @@ The Quote of the Day App is designed to provide daily inspiration and motivation
 ## Features
 Daily Quote: Get a new inspirational quote every day.  
 Share Quotes: Share your favorite quotes with friends via social media or messaging apps.  
-Save Favorites: Save quotes to your favorites list for quick access. 
+Save Favorites: Save quotes to your favorites list for quick access.  
 View Favorite Quote : View your saved favorite quotes.
